@@ -6,4 +6,5 @@ It's system which allows for user to check upcoming basketball match betting coe
 Only backend
 
 RESTful API was developed using Spring boot
+
 Information is scrapped from websites using Selenium Webdriver
